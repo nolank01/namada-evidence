@@ -66,4 +66,6 @@ SUCCESS Channel {
     connection_delay: 0ns,
 }
 
+
+My cosmos-testnet address : cosmos1w6s2lnvd02azk5yy2eaam3pmv8ry0yfsvxdfym
 My memo : tpknam1qrszptsuy2epy4zp0edx7p7lq9uy0szxguqmch3jfl2n79v2aqu6gd3rjt7
