@@ -69,6 +69,8 @@ SUCCESS Channel {
 
 My cosmos-testnet relayer address : cosmos1w6s2lnvd02azk5yy2eaam3pmv8ry0yfsvxdfym
 My memo : tpknam1qrszptsuy2epy4zp0edx7p7lq9uy0szxguqmch3jfl2n79v2aqu6gd3rjt7
-
+Cosmos receiver : cosmos1pyaj300yjk2umrherudpsesq8tglxac0zxyx93
 TRANSACTION TEST CHANNEL:
 https://testnet.mintscan.io/cosmoshub-testnet/txs/753B4199E494C9F35DA9134D03C8512CD2BBB0ED2BB5A4791175C36A6797964F?height=20498293
+https://www.mintscan.io/cosmoshub-testnet/tx/753B4199E494C9F35DA9134D03C8512CD2BBB0ED2BB5A4791175C36A6797964F?height=20498293
+
